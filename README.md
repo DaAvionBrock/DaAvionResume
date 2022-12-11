@@ -2,9 +2,6 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory HomeLab](http://github.com/DaAvionBrock/LABURL)
-
-- [Hello World! (Python)](http://github.com/DaAvionBrock/LABURL)
 
 <h2> 🤳 Connect with me:</h2>
 
