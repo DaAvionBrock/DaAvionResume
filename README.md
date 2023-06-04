@@ -1,7 +1,7 @@
 <h1>Hi, I'm DaAvion!</h1>
 
 <h2>👨‍💻 IT Projects:</h2>
-Azure AD: https://github.com/DaAvionBrock/ActiveDirectory
+<b>Azure AD<b/>: https://github.com/DaAvionBrock/ActiveDirectory
 
 <h2> 🤳 Connect with me:</h2>
 
