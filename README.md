@@ -5,7 +5,7 @@
   
 <b>Osticket install<b/>:
 
-<b>Wazuh Siem on linode</b>:
+<b>WireShark</b>:
 
 <h2> 🤳 Connect with me:</h2>
 
