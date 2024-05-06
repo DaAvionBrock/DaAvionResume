@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 <b>Azure AD<b/>: https://github.com/DaAvionBrock/ActiveDirectory
-  
+
 <b>Osticket install<b/>:
 
 <b>WireShark</b>:
